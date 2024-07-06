@@ -1,0 +1,11 @@
+{
+  "name": "react-intermediaire",
+  "version": "1.0.0",
+  "description": "Ce repo contient le code de base pour les exercices que vous trouverez dans le cours [OpenClassrooms - Créez une application React complète](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
